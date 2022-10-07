@@ -1,1 +1,0 @@
-writing scripts on permission
